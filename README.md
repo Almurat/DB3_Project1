@@ -27,4 +27,4 @@ Web Site: GameCritic
 ##### 15.How many people use it?
 
 # Use-Case diagram
-<img src="https://embed.creately.com/kMxIbdQ3KCR?token=o1tUdn9a0xglqUoO&type=svg">
+<img src="https://embed.creately.com/kMxIbdQ3KCR?token=e3731clWC2IcTx5d&type=svg">
