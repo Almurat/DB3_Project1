@@ -40,4 +40,4 @@ also we can find the release date and upcoming date
 
 
 # Use-Case diagram
-<img src="https://embed.creately.com/kMxIbdQ3KCR?token=e3731clWC2IcTx5d&type=svg">
+<img src="Untitled Document.png">
