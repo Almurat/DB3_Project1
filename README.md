@@ -28,4 +28,3 @@ Web Site: GameCritic
 
 # Use-Case diagram
 <img src="https://embed.creately.com/kMxIbdQ3KCR?token=MGG3jzVsskY37Jje&type=svg">
-1
