@@ -10,7 +10,7 @@ Web Site: GameCritic
   We select django to create website and we don't sure which database server to select
 # 3.Project Use-Case diagram and questions over the data
 Questions:
-1.What genre of games user prefer? /n
+1.What genre of games user prefer? "/n"
 2.Popularity of certain games?
 3.What rating of the game?
 4.What is the company name that created game?
