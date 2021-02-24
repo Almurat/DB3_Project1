@@ -15,4 +15,12 @@ Web Site: GameCritic
 ##### 3.What rating of the game?
 ##### 4.What is the company name that created game?
 ##### 5.What is the name of your most beloved?
-
+##### 6.What is the name of championship?
+##### 7.When championship will be?
+##### 8.What is price of the game?
+##### 9.Date of the game release?
+##### 10.Who made the Guide?
+##### 11.When update is coming?
+##### 12.Which team participate in championship?
+##### 13.How many viewers ?
+##### 14.Who make championship?
