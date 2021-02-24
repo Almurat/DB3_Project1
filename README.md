@@ -12,7 +12,7 @@ Web Site: GameCritic
 Questions:
 ---
 1.What genre of games user prefer?
-***
+-----------------------------------
 2.Popularity of certain games?
 ***
 3.What rating of the game?
