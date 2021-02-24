@@ -27,4 +27,14 @@ Web Site: GameCritic
 ##### 15.How many people use it?
 
 # Use-Case diagram
-<img src="https://embed.creately.com/kMxIbdQ3KCR?token=e3731clWC2IcTx5d&type=svg">
+<img src="https://embed.creately.com/kMxIbdQ3KCR?token=MGG3jzVsskY37Jje&type=svg">
+## Dataset
+##### 1. https://www.kaggle.com/deepann/80000-steam-games-dataset?select=text_content.csv
+##### first dataset can show 80000 types of games in steam which also includes description about game and requirements for playing and tags which user can search.
+also we can find the release date and upcoming date
+##### 2. https://www.kaggle.com/gregorut/videogamesales
+##### this dataset also shows games for sale and their rating and sales rating. it can also find the rating of the game and popularity
+##### 3. https://www.kaggle.com/gregorut/videogamesales
+##### From this dataset, it can show about the developer of the game, genre and publisher. it can help to answer questions like genre of the game, company name.
+##### 4. https://www.kaggle.com/jesneuman/pc-games
+##### this dataset can help users to find similar games to that related game
