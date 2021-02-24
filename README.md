@@ -26,7 +26,8 @@ Web Site: GameCritic
 ##### 14.Who make championship?
 ##### 15.How many people use it?
 
-**Dataset**
+Dataset
+-----------------------------------
 ##### 1. https://www.kaggle.com/deepann/80000-steam-games-dataset?select=text_content.csv
 ##### first dataset can show 80000 types of games in steam which also includes description about game and requirements for playing and tags which user can search.
 also we can find the release date and upcoming date
