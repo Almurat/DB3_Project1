@@ -25,3 +25,6 @@ Web Site: GameCritic
 ##### 13.How many viewers ?
 ##### 14.Who make championship?
 ##### 15.How many people use it?
+
+# Use-Case diagram
+<img src="https://embed.creately.com/kMxIbdQ3KCR?token=MGG3jzVsskY37Jje&type=svg">
