@@ -43,4 +43,4 @@ also we can find the release date and upcoming date
 <img src="Untitled Document.png">
 
 # ER-diagram
-<img src="Er diagram.png">
+<img src="Baller-ER.png">
