@@ -41,3 +41,5 @@ also we can find the release date and upcoming date
 
 # Use-Case diagram
 <img src="Untitled Document.png">
+# ER-diagram
+<img src="Er diagram.png">
