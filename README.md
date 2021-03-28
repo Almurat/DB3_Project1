@@ -45,7 +45,7 @@ also we can find the release date and upcoming date
 # ER-diagram
 <img src="Baller-ER.png">
 
-# 1.User-interface implementation and connection
+# 6.User-interface implementation and connection
 
 ## Connection
 <img src="Capture.PNG">
