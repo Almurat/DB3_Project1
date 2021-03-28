@@ -53,3 +53,7 @@ also we can find the release date and upcoming date
 
 ## User-interface implementation
 
+<img src="UI_register.PNG">
+<img src="UI_login.PNG">
+<img src="UI1_Game_Critic.PNG">
+<img src="UI_about_us.PNG">
