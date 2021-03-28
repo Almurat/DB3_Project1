@@ -48,5 +48,5 @@ also we can find the release date and upcoming date
 # 1.User-interface implementation and connection
 
 ## Connection
-<img src="Capture.png">
+<img src="Capture.PNG">
 <img src="Capture2.png">
