@@ -49,4 +49,4 @@ also we can find the release date and upcoming date
 
 ## Connection
 <img src="Capture.PNG">
-<img src="Capture2.png">
+<img src="Capture2.PNG">
