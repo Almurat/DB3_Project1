@@ -42,7 +42,8 @@ also we can find the release date and upcoming date
 # Use-Case diagram
 <img src="Baller-UseCase-UML.png">
 
-# ER-diagram
+# 4. Data modeling and database design
+## ER-diagram
 <img src="Baller-ER.png">
 
 # 6.User-interface implementation and connection
