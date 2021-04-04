@@ -61,3 +61,5 @@ also we can find the release date and upcoming date
 
 
 # 7.SQL to Relational Algebra (RA) operators
+
+<img src="Algebraic1.jpg">
