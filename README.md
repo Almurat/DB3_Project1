@@ -63,3 +63,7 @@ also we can find the release date and upcoming date
 # 7.SQL to Relational Algebra (RA) operators
 
 <img src="Algebraic1.jpg">
+<img src="Algebraic2.jpg">
+<img src="Algebraic3.jpg">
+<img src="Algebraic4.jpg">
+<img src="Algebraic5.jpg">
