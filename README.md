@@ -58,3 +58,6 @@ also we can find the release date and upcoming date
 <img src="UI_login.PNG">
 <img src="UI1_Game_Critic.PNG">
 <img src="UI_about_us.PNG">
+
+
+# 7.SQL to Relational Algebra (RA) operators
