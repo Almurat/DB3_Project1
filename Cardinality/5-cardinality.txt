@@ -1,0 +1,10 @@
+dataset
+	sales: 16589
+	discount: 17
+5) 
+1 way:
+a) SELECT name, price from sales inner join discount;
+	|T'| = (1658*17)/max(1658,17)  = 17
+True result 17;
+
+so there is less data there is not many variants to join
