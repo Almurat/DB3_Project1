@@ -1,0 +1,14 @@
+dataset
+	story: 7
+	news_bridge: 15
+	user: 25
+5) 
+2 ways or more:
+a) SELECT story_name, count(*) from story s inner join news_bridge n on s.story_id = n.story_id inner join user u on n.user_id = u.user_id group by story_name;
+
+	|T'| = (7*15)/max(7,15) * 25/max(25, 15)  = 25
+True result 25;
+b) SELECT story_name, count(*) from user u inner join news_bridge n on n.user_id = u.user_id
+											inner join story s on s.story_id = n.story_id;
+	|T'| = (15*25)/max(15,25) * 7 / max(15, 7) = 25
+we can make two or more similat queries and they will be same;
