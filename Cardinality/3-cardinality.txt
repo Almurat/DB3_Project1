@@ -1,0 +1,30 @@
+dataset{
+  user 25
+  news_brideg 15
+  story 7
+}
+
+SELECT first_name FROM user u INNER JOIN news_bridge n ON u.user_id=n.user_id
+INNER JOIN story s ON n.story_id=s.story_id WHERE story_title like'championship';
+
+
+SELECT count(*)FROM user, news_bridge, story 
+WHERE story_title like'championship'
+AND user.user_id=news_bridge.user_id
+AND news_bridge.story_id=story.story_id;
+
+1st way:(user*news_bridge)*story
+  SELECT count(*) FROM story JOIN(user JOIN news_bridge ON user.user_id=news_bridge.user_id)
+  ON news_bridge.story_id=story.story_id
+  WHERE story_title like'championship';
+  
+|T'|=(22*15)/max(22,15) * (15*7)/max(15,7)=15*7=105
+True result:105 tuple
+
+2nd way:(news_bridge*story)*user
+   SELECT count(*) FROM user JOIN(news_bridge JOIN story ON news_bridge.story_id=story.story_id AND story_title like'championship')
+   ON user.user_id=news_bridge.user_id;
+|T'|=(15*7)/max(15,7) * (25*15)/max(25,15)=105
+True result:105 tuple
+
+Both the same!!
