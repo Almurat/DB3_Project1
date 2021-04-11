@@ -1,0 +1,8 @@
+dataset{
+game 30250
+cart 20
+}
+SELECT name,count(c.cart_id) FROM product p INNER JOIN cart c ON p.product_id=c.product_id GROUP BY name;
+
+ONLY WAY:|T'|=(30250*20)/max(30250,20)=20
+True result:20 tuple.
