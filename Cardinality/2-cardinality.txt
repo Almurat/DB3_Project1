@@ -1,1 +1,8 @@
+dataset{
+product 16598
+}
+SELECT year FROM product WHERE name=?
 
+1 way only
+|T'|=16598/16598=1
+True result 1 tuple
