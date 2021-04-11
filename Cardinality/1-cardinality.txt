@@ -1,1 +1,7 @@
-
+dataset{
+        user 25
+        news_bridge 15
+        }
+SELECT first_name,last_name FROM user u inner JOIN news_bridge n ON u.user_id=n.user_id
+Only way:|T'|=(25*15)/max(25,15)=15
+True result 15;
